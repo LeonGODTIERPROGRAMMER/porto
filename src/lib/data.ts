@@ -22,21 +22,21 @@ export const projects: Project[] = [
 		href: 'https://github.com/nama-kamu/ukm'
 	},
 	{
-		title: 'Dashboard Jaringan',
-		description: 'Pemantauan status perangkat lab sekolah secara real-time.',
-		stack: 'TypeScript',
+		title: 'Serverless Ticketing',
+		description: 'as the name suggests.',
+		stack: 'AWS',
 		year: 2026,
-		href: 'https://github.com/nama-kamu/dashboard'
+		href: 'https://github.com/handipradana/lks-serverless/blob/main/README.md'
 	}
 ];
 
 export const profile = {
-	bio: 'Saya suka membangun hal yang berguna dan terlihat rapi. Saat ini belajar SvelteKit dan TypeScript, sambil mengerjakan proyek kecil untuk sekolah dan komunitas.',
+	bio: 'cloud computing is love, cloud computing is life, cloud computing IS the new meta <3',
 	facts: [
 		{ label: 'FOKUS', value: 'Antarmuka web & sistem informasi' },
 		{ label: 'STACK', value: 'SvelteKit · TypeScript · Tailwind' },
 		{ label: 'LOKASI', value: 'Indonesia' },
 		{ label: 'STATUS', value: 'Terbuka untuk kolaborasi' }
 	],
-	skills: ['HTML', 'CSS', 'JavaScript', 'SvelteKit', 'Tailwind', 'Git']
+	skills: ['CLOUD ENGINEERING WITH AWS,Python']
 };
